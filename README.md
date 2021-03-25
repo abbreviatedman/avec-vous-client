@@ -16,7 +16,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 
 - [ ] sign up
 - [ ] log in
-- [ ] view stories
+- [ ] view all stories
+- [ ] view a particular story
 - [ ] start a story
 
 #### As a logged-in user, I want to:
@@ -37,6 +38,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 
 - [ ] view a user
 - [ ] be prompted to login/signup and returned to my attempted action if successful
+- [ ] mouse over a sentence on a story page and see which user it belongs to
+- [ ] mouse over a user on a story page and see which sentences belongs to them
 
 #### As a logged-in user, I want to:
 
@@ -46,6 +49,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] accept another user's request to join to a story
 - [ ] remove someone from a story
 - [ ] friend a user
+- [ ] see a user's friends
 - [ ] accept a user's friend request
 - [ ] message a friended or collaborating user
 
