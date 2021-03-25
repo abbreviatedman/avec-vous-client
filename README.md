@@ -29,8 +29,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] invite a user to a story
 - [ ] accept an invite to a story
 - [ ] decline an invite to a story
-- [ ] close one of my stories
-- [ ] title a closed story
+- [ ] mark my story complete (no further sentences can be added)
+- [ ] title a complete story
 
 ### Future Versions
 
@@ -47,6 +47,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] see my profile
 - [ ] ask to join a story
 - [ ] accept another user's request to join to a story
+- [ ] close one of my stories so that no new contributors may request to join
 - [ ] remove someone from a story
 - [ ] friend a user
 - [ ] see a user's friends
