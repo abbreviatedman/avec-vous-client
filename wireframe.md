@@ -66,8 +66,8 @@
       - when accepted, button changes to link to story
   - for outgoing invites:
     - arrow out/sent mail icon/some other indicator
-    - "to [username]"
-    - "for [story title]"
+    - "to [username]" [with link to user]
+    - "for [story title]" [with link to story]
     - button to cancel
       - when canceled, invite disappears
 
