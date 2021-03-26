@@ -37,9 +37,10 @@ Additional features outside of the MVP include further social aspects (friends, 
 #### As a user, I want to:
 
 - [ ] view a user
+- [ ] retrieve a lost password
 - [ ] be prompted to login/signup and returned to my attempted action if successful
 - [ ] mouse over a sentence on a story page and see which user it belongs to
-- [ ] mouse over a user on a story page and see which sentences belongs to them
+- [ ] mouse over a user on a story page and see which sentences belong to them
 
 #### As a logged-in user, I want to:
 
