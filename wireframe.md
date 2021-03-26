@@ -2,17 +2,31 @@
 
 ### Signed Out Header
 
-- New Story
+- My Stories
+- About
 - Signup/Login
 - Avec-Vous
 
 ### Signed In Header
 
-- New Story
 - My Stories
 - Avec-Vous
+- About
 - Invites
-- Log Out
+- Profile
+
+### About
+
+- Intro
+- Team
+
+### Profile
+
+- User Data Update
+  - Username
+  - Email
+  - Password
+  - Profile Pic
 
 ### Signup/Login
 
@@ -22,7 +36,6 @@
 
 ### Stories Page
 
-- An intro
 - Tab to select
   - Stories In Progress [default]
   - Completed Stories
