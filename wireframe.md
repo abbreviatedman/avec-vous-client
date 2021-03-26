@@ -48,6 +48,25 @@
 - title (if completed)
 - button to invite another user (if the story is 1. the logged-in user's story and 2. not complete)
 
+### Dashboard
+
+- Tabs for
+  - Social Hub [default]
+    - List of invites
+      - for all invites
+      - for incoming invites:
+        - arrow in/mailbox icon/some other indicator
+        - "from [username]" [with link to user]
+        - "for [story title]" [with link to story]
+        - button to accept/decline
+      - for outgoing invites:
+        - arrow out/sent mail icon/some other indicator
+        - "to [username]"
+        - "for [story title]"
+        - button to cancel
+  - Settings
+    - Log out
+
 ## User Stories
 
 #### As a user, I want to:

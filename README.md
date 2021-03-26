@@ -41,6 +41,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] be prompted to login/signup and returned to my attempted action if successful
 - [ ] mouse over a sentence on a story page and see which user it belongs to
 - [ ] mouse over a user on a story page and see which sentences belong to them
+- [ ] see a user's heart rating
 
 #### As a logged-in user, I want to:
 
