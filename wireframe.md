@@ -46,7 +46,11 @@
 - contributors
 - text
 - title (if completed)
-- button to invite another user (if the story is 1. the logged-in user's story and 2. not complete)
+- whose turn it is
+- if the story is the logged-in user's story
+  - button to invite another user (if not a completed story)
+  - button to mark story complete (if not a completed story)
+  - sentence addition field (if user's turn)
 
 ### Dashboard
 
