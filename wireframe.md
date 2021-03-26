@@ -11,7 +11,8 @@
 - New Story
 - My Stories
 - Avec-Vous
-- My Dashboard
+- Invites
+- Log Out
 
 ### Signup/Login
 
@@ -28,6 +29,7 @@
 
 ### My Stories Page
 
+- intro
 - Tab to select
   - Stories it's my turn in [default]
   - All stories
@@ -52,24 +54,22 @@
   - button to mark story complete (if not a completed story)
   - sentence addition field (if user's turn)
 
-### Dashboard
+### Invites
 
-- Tabs for
-  - Social Hub [default]
-    - List of invites
-      - for all invites
-      - for incoming invites:
-        - arrow in/mailbox icon/some other indicator
-        - "from [username]" [with link to user]
-        - "for [story title]" [with link to story]
-        - button to accept/decline
-      - for outgoing invites:
-        - arrow out/sent mail icon/some other indicator
-        - "to [username]"
-        - "for [story title]"
-        - button to cancel
-  - Settings
-    - Log out
+- List of invites
+  - for incoming invites:
+    - arrow in/mailbox icon/some other indicator
+    - "from [username]" [with link to user]
+    - "for [story title]" [with link to story]
+    - buttons to accept/decline
+      - when declined, incoming invite goes away
+      - when accepted, button changes to link to story
+  - for outgoing invites:
+    - arrow out/sent mail icon/some other indicator
+    - "to [username]"
+    - "for [story title]"
+    - button to cancel
+      - when canceled, invite disappears
 
 ## User Stories
 
