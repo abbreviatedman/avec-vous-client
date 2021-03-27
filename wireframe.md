@@ -19,6 +19,7 @@
 
 - Intro
 - Team
+- Assorted Background Info
 
 ### Profile
 
