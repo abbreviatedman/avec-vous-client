@@ -43,18 +43,16 @@
 
 ### My Stories Page
 
-- intro
 - Tab to select
-  - Stories it's my turn in [default]
-  - All stories
+  - My Turn [default]
+  - All Stories
+  - Stories I Manage
 
 ### A Story On A Page
 
 - a truncated version of the story
   - from the end for in-progress stories
   - from the start for completed stories
-- whose turn it is
-- completion status
 - title if completed
 
 ### Story Details Page
