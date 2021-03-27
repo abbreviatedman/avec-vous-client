@@ -45,8 +45,8 @@
 
 - Tab to select
   - My Turn [default]
-  - All Stories
-  - Stories I Manage
+  - All
+  - Managing
 
 ### A Story On A Page
 
