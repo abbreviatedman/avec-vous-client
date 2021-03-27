@@ -66,6 +66,18 @@
   - button to mark story complete (if not a completed story)
   - sentence addition field (if user's turn)
 
+### Invite A User
+
+- text of story so far (from beginning)
+- search box
+- Search button
+- "Search By" choices
+  - username
+  - email
+- Sort choices
+  - Most Recently Contributed [default]
+  - Alphabetical
+
 ### Invites
 
 - List of invites
