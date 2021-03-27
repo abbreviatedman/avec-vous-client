@@ -56,6 +56,9 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] see a user's friends
 - [ ] accept a user's friend request
 - [ ] message a friended or collaborating user
+- [ ] Add a category to a new story
+- [ ] Add a category to a story after creation
+- [ ] Filter stories by category
 
 ## Technologies Used
 
