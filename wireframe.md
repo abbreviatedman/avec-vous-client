@@ -60,6 +60,7 @@
 ### Story Details Page
 
 - writers
+- Invite More Writers button
 - editor
 - text
 - title (if completed)
