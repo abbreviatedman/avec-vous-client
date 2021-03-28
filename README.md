@@ -37,6 +37,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 #### As a user, I want to:
 
 - [ ] view a user
+- [ ] search stories by keyword
+- [ ] search stories by category
 - [ ] retrieve a lost password
 - [ ] be prompted to login/signup and returned to my attempted action if successful
 - [ ] mouse over a sentence on a story page and see which user it belongs to
@@ -48,6 +50,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] see my sentences
 - [ ] see my profile
 - [ ] Edit my bio
+- [ ] When inviting a user, sort users by most recently active (wrote a sentence most recently)
+- [ ] When inviting a user, search is fuzzy
 - [ ] ask to join a story
 - [ ] accept another user's request to join to a story
 - [ ] close one of my stories so that no new contributors may request to join
