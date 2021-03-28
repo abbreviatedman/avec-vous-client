@@ -59,7 +59,7 @@
 
 ### Story Details Page
 
-- contributors
+- writers
 - editor
 - text
 - title (if completed)
