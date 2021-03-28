@@ -53,20 +53,25 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] see my sentences
 - [ ] see my profile
 - [ ] Edit my bio
-- [ ] When inviting a user, sort users by most recently active (wrote a sentence most recently)
-- [ ] When inviting a user, search is fuzzy
 - [ ] ask to join a story
-- [ ] accept another user's request to join a story
-- [ ] close one of my stories so that no new contributors may request to join
-- [ ] remove someone from a story
 - [ ] rate a writer
 - [ ] friend a user
 - [ ] see a user's friends
 - [ ] accept a user's friend request
 - [ ] message a friended or collaborating writer
+- [ ] Filter stories by category
+- [ ] Accept or decline an invitation to take over editing duties.
+
+#### As an editor of a story, I want to:
+
+- [ ] When inviting a user, sort users by most recently active (wrote a sentence most recently)
+- [ ] When inviting a user, search is fuzzy
+- [ ] accept another user's request to join a story
+- [ ] close one of my stories so that no new contributors may request to join
+- [ ] remove someone from a story
 - [ ] Add a category to a new story (prescriptive)
 - [ ] Add a category to a story after creation (descriptive)
-- [ ] Filter stories by category
+- [ ] Ask to delegate editing duties
 
 ### Potential Future Features
 
