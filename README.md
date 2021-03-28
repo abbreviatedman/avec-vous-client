@@ -47,6 +47,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 
 - [ ] see my sentences
 - [ ] see my profile
+- [ ] Edit my bio
 - [ ] ask to join a story
 - [ ] accept another user's request to join to a story
 - [ ] close one of my stories so that no new contributors may request to join
