@@ -40,6 +40,7 @@
 - Tab to select
   - Stories In Progress [default]
   - Completed Stories
+- sorted by recency
 
 ### My Stories Page
 
@@ -47,6 +48,7 @@
   - My Turn [default]
   - All
   - Managing
+- sorted by recency
 
 ### A Story On A Page
 
@@ -74,9 +76,6 @@
 - "Search By" choices
   - username
   - email
-- Sort choices
-  - Most Recently Contributed [default]
-  - Alphabetical
 
 ### Invites
 
