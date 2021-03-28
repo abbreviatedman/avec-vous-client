@@ -59,11 +59,11 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] accept another user's request to join a story
 - [ ] close one of my stories so that no new contributors may request to join
 - [ ] remove someone from a story
-- [ ] rate a collaborator
+- [ ] rate a writer
 - [ ] friend a user
 - [ ] see a user's friends
 - [ ] accept a user's friend request
-- [ ] message a friended or collaborating user
+- [ ] message a friended or collaborating writer
 - [ ] Add a category to a new story (prescriptive)
 - [ ] Add a category to a story after creation (descriptive)
 - [ ] Filter stories by category
