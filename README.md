@@ -36,6 +36,8 @@ Additional features outside of the MVP include further social aspects (friends, 
 
 #### As a user, I want to:
 
+- [ ] switch from light to dark mode
+- [ ] have my universal light/dark mode respected
 - [ ] view a user
 - [ ] search stories by keyword
 - [ ] search stories by category
