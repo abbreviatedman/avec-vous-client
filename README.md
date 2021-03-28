@@ -61,6 +61,10 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] Add a category to a story after creation (descriptive)
 - [ ] Filter stories by category
 
+### Potential Future Features
+
+- Timed stories
+
 ## Technologies Used
 
 - React
