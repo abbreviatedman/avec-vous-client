@@ -38,6 +38,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 
 - [ ] switch from light to dark mode
 - [ ] have my universal light/dark mode respected
+- [ ] when viewing a story, have the contributors list always visible
 - [ ] view a user
 - [ ] search stories by keyword
 - [ ] search stories by category
