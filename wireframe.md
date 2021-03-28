@@ -82,20 +82,20 @@
 
 ### Invites
 
-- List of invites
-  - for incoming invites:
-    - arrow in/mailbox icon/some other indicator
-    - "from [username]" [with link to user]
-    - "for [story title]" [with link to story]
-    - buttons to accept/decline
-      - when declined, incoming invite goes away
-      - when accepted, button changes to link to story
-  - for outgoing invites:
-    - arrow out/sent mail icon/some other indicator
-    - "to [username]" [with link to user]
-    - "for [story title]" [with link to story]
-    - button to cancel
-      - when canceled, invite disappears
+- Incoming/Outgoing tabs
+- for incoming invites:
+  - arrow in/mailbox icon/some other indicator
+  - "from [username]" [with link to user]
+  - "for [story title]" [with link to story]
+  - buttons to accept/decline
+    - when declined, incoming invite goes away
+    - when accepted, button changes to link to story
+- for outgoing invites:
+  - arrow out/sent mail icon/some other indicator
+  - "to [username]" [with link to user]
+  - "for [story title]" [with link to story]
+  - button to cancel
+    - when canceled, invite disappears
 
 ## User Stories
 
