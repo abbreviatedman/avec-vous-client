@@ -51,6 +51,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 #### As a logged-in user, I want to:
 
 - [ ] see my sentences
+- [ ] see with a number on the header icon how many invites I have
 - [ ] see my profile
 - [ ] Edit my bio
 - [ ] ask to join a story
