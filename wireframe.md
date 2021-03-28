@@ -75,6 +75,7 @@
 - search box
 - Search button
 - Results
+  - With no search, sort by recency of joining (or recency of sentence-writing if non-trivial)
   - Each user in results has:
     - username
     - invite button
