@@ -75,9 +75,6 @@
 - text of story so far (from beginning)
 - search box
 - Search button
-- "Search By" choices
-  - username
-  - email
 
 ### Invites
 
