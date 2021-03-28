@@ -75,6 +75,10 @@
 - text of story so far (from beginning)
 - search box
 - Search button
+- Results
+  - Each user in results has:
+    - username
+    - invite button
 
 ### Invites
 
