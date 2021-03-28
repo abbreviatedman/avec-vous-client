@@ -72,7 +72,6 @@
 
 ### Invite A User
 
-- text of story so far (from beginning)
 - search box
 - Search button
 - Results
