@@ -56,7 +56,7 @@ Additional features outside of the MVP include further social aspects (friends, 
 - [ ] When inviting a user, sort users by most recently active (wrote a sentence most recently)
 - [ ] When inviting a user, search is fuzzy
 - [ ] ask to join a story
-- [ ] accept another user's request to join to a story
+- [ ] accept another user's request to join a story
 - [ ] close one of my stories so that no new contributors may request to join
 - [ ] remove someone from a story
 - [ ] rate a collaborator
