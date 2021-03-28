@@ -47,7 +47,7 @@
 - Tab to select
   - My Turn [default]
   - All
-  - Managing
+  - Edited By Me
 - sorted by recency
 
 ### A Story On A Page
@@ -60,6 +60,7 @@
 ### Story Details Page
 
 - contributors
+- editor
 - text
 - title (if completed)
 - whose turn it is
